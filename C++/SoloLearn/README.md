@@ -1,6 +1,7 @@
 This is my take at solving SoloLearn Free Code Coach challenges with C++
 
 FAIR USE COPYRIGHT DISCLAIMER
+
 I do not own nor pretend to own any of the challenges presented here, they are property of SoloLearn.
 
 If you want to solve any of this challenges, you will need to sign up on SoloLearn and access to them
