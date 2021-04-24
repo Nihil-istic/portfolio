@@ -30,6 +30,7 @@ Pesos').
 
 ## Sample Input
 4000
+
 100
 
  
