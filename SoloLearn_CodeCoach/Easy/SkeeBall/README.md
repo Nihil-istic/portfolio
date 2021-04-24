@@ -31,6 +31,7 @@ says "Try again" if you will not.
 
 ## Sample Input
 500
+
 40
 
 
