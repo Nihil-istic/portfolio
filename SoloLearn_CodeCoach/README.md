@@ -8,5 +8,5 @@ If you want to solve any of this challenges, you need to sign up on SoloLearn an
 the intended way: Code Coach.
 
 The purpose for which I post them is solely for nonprofit, educational reasons: to show how I would
-personally solve them. Also, as everything else in this repository (portfolio), it is intended to be
+solve them, and also, as everything else in this repository (portfolio), it is intended to be
 a demonstration of my understanding in the given programming language.
