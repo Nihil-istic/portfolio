@@ -6,7 +6,7 @@ int main() {
     cin >> n;
     if (n < 5) {
         cout << "I got this!" << endl;
-    } else if (n < 10) {
+    } else if (n <= 10) {
         cout << "Help me Batman" << endl;
     } else {
         cout << "Good Luck out there!" << endl;
