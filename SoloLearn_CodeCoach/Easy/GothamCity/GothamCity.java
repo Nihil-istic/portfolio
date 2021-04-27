@@ -8,7 +8,7 @@ public class GothamCity {
 
         if (numberOfCriminals < 5) {
             System.out.println("I got this!");
-        } else if (numberOfCriminals < 10) {
+        } else if (numberOfCriminals <= 10) {
             System.out.println("Help me Batman");
         } else {
             System.out.println("Good Luck out there!");
